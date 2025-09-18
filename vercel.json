@@ -1,0 +1,12 @@
+{
+  "build": {
+    "env": {
+      "VITE_APP_BUILD_BASE": "/"
+    },
+    "command": "pnpm run build",
+    "directory": "."
+  },
+  "outputDirectory": "dist",
+  "framework": "vite"
+}
+
